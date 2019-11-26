@@ -18,8 +18,6 @@ import torch
 import torch.nn as nn
 import numpy as np
 import time
-import matplotlib.pyplot as plt
-import matplotlib.gridspec as gridspec
 from preprocess import get_cylinder_data, get_outside_cylinder_data
 
 
